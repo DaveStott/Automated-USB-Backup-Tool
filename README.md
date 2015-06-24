@@ -7,7 +7,7 @@ The tool is a is a VBScript with a HTA front end which you can select folders to
 
 Basic instructions:
 
-First off run the Automated USB Backup.hta file
+First off download all of the files into a folder and run the Automated USB Backup.hta file.
 
 On the folders to backup tab, select the local drive where the folders are that you want to backup and click add.
 Select the folder you want to backup (it will only allow one folder to be selected at a time and will backup all subfolders)
